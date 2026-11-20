@@ -7,7 +7,7 @@ int product(int n){
 }
 
 int main(){
-    int ans = product(10);
+    int ans = product(5);
 
     printf("%d ", ans);
     return 0;
